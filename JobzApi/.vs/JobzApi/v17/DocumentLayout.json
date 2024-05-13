@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\responses\\companyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\responses\\companyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\requests\\createcompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\requests\\createcompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_5RT3QHF/Jobz/True/SqlTable/dbo.Jobs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Migrations\\20240512103442_salary-to-string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobzApi\\Migrations\\20240512103442_salary-to-string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\responses\\jobresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\responses\\jobresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\requests\\createjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\requests\\createjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\responses\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\responses\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_5RT3QHF/Jobz/True/SqlTable/dbo.Companies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\requests\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\requests\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Decagon\\ContactSyncAPI\\ContactSyncAPI\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\interfaces\\irepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\interfaces\\irepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\repositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\repositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\responses\\genericapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\responses\\genericapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\exceptionhandler\\customexceptions\\resourcenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\exceptionhandler\\customexceptions\\resourcenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\exceptionhandler\\customexceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\exceptionhandler\\customexceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\exceptionhandler\\customexceptions\\illegalargumentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\exceptionhandler\\customexceptions\\illegalargumentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\exceptionhandler\\customexceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\exceptionhandler\\customexceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\responses\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\responses\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\requests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\requests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|c:\\users\\hp\\desktop\\decagon\\jobzapi\\jobzapi\\models\\dtos\\requests\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD55375-2125-481B-B9A6-7C975AEE0033}|JobzApi\\JobzApi.csproj|solutionrelative:jobzapi\\models\\dtos\\requests\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\JobService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\JobService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\JobService.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswGsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:17:15.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\CompanyResponse.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Responses\\CompanyResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\CompanyResponse.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Responses\\CompanyResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:29:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IJobService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\Interfaces\\IJobService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IJobService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\Interfaces\\IJobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:10:42.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "JobzApi\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:20:53.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JobzApi\\Controllers\\JobController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:07:38.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\CompanyService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\CompanyService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwE4AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:41:11.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:40:56.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCompanyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\CreateCompanyRequest.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Requests\\CreateCompanyRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\CreateCompanyRequest.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Requests\\CreateCompanyRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:22:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Entities\\Job.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Entities\\Job.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:58:59.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Jobs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_5RT3QHF/Jobz/True/SqlTable/dbo.Jobs.sql",
+              "ToolTip": "dbo.Jobs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-12T10:38:04.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240512103442_salary-to-string.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Migrations\\20240512103442_salary-to-string.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Migrations\\20240512103442_salary-to-string.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Migrations\\20240512103442_salary-to-string.cs",
+              "RelativeToolTip": "JobzApi\\Migrations\\20240512103442_salary-to-string.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:34:43.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\JobResponse.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Responses\\JobResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\JobResponse.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Responses\\JobResponse.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:28:13.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateJobRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\CreateJobRequest.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Requests\\CreateJobRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\CreateJobRequest.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Requests\\CreateJobRequest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:11:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Responses\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\PaginatedResponse.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Responses\\PaginatedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:55:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Companies [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_5RT3QHF/Jobz/True/SqlTable/dbo.Companies.sql",
+              "ToolTip": "dbo.Companies [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T17:40:55.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Entities\\Company.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:28:43.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Requests\\RegisterUserRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\RegisterUserRequest.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Requests\\RegisterUserRequest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:24.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Program.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Program.cs",
+              "RelativeToolTip": "JobzApi\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAewEsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:05:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ContactSyncAPI\\ContactSyncAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\ContactSyncAPI\\ContactSyncAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ContactSyncAPI\\ContactSyncAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\ContactSyncAPI\\ContactSyncAPI\\Services\\UserService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAD8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:33:15.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobzApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA5wBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:34:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\UserService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\UserService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:48:15.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Entities\\AppUser.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepositoryService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IRepositoryService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\Interfaces\\IRepositoryService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IRepositoryService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\Interfaces\\IRepositoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:38:02.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\RepositoryService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\RepositoryService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\RepositoryService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\RepositoryService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwDEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:38:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\CacheService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\CacheService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:38:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\Interfaces\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\Interfaces\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:37:52.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JobzApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\appsettings.json",
+              "RelativeToolTip": "JobzApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T14:05:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\JwtService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:01:57.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\GenericApiResponse.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Responses\\GenericApiResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\GenericApiResponse.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Responses\\GenericApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:58:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResourceNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\ResourceNotFoundException.cs",
+              "RelativeDocumentMoniker": "JobzApi\\ExceptionHandler\\CustomExceptions\\ResourceNotFoundException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\ResourceNotFoundException.cs",
+              "RelativeToolTip": "JobzApi\\ExceptionHandler\\CustomExceptions\\ResourceNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:00:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InternalServerException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\InternalServerException.cs",
+              "RelativeDocumentMoniker": "JobzApi\\ExceptionHandler\\CustomExceptions\\InternalServerException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\InternalServerException.cs",
+              "RelativeToolTip": "JobzApi\\ExceptionHandler\\CustomExceptions\\InternalServerException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:00:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IllegalArgumentException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\IllegalArgumentException.cs",
+              "RelativeDocumentMoniker": "JobzApi\\ExceptionHandler\\CustomExceptions\\IllegalArgumentException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\IllegalArgumentException.cs",
+              "RelativeToolTip": "JobzApi\\ExceptionHandler\\CustomExceptions\\IllegalArgumentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:59:59.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "JobzApi\\ExceptionHandler\\CustomExceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\ExceptionHandler\\CustomExceptions\\BadRequestException.cs",
+              "RelativeToolTip": "JobzApi\\ExceptionHandler\\CustomExceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:59:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:58:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\Interfaces\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:58:51.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\UserResponse.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Responses\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Responses\\UserResponse.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Responses\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Requests\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\UpdateUserRequest.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Requests\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:33.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Services\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "JobzApi\\Services\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:03.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "JobzApi\\Models\\Dtos\\Requests\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\JobzApi\\JobzApi\\Models\\Dtos\\Requests\\LoginUserRequest.cs",
+              "RelativeToolTip": "JobzApi\\Models\\Dtos\\Requests\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:13.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
